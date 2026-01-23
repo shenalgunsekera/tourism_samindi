@@ -1,6 +1,7 @@
 'use client';
 
 import ScrollAnimation from "../components/ScrollAnimation";
+import Comment from "../components/comment";
 
 export default function Contact() {
   return (
@@ -69,6 +70,10 @@ export default function Contact() {
           </div>
         </div>
       </section>
+      <div>
+        <Comment />
+      </div>
     </div>
+    
   );
 } 
