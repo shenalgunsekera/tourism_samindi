@@ -281,7 +281,7 @@ export default function Home() {
             </div>
            
           </div>
-          <div class="row">
+          <div className="row">
              <div className="col-md-3 mb-3">
               <ScrollAnimation>
                 <Link href="/arts" className="attraction-card">
