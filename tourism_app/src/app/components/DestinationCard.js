@@ -21,18 +21,11 @@ export default function DestinationCard({ image, title, description, delay = 0 }
           </div>
         </div>
       </div>
-      
       <div className="card-content">
         <h3 className="card-title">{title}</h3>
         <p className="card-description">{description}</p>
-        
-        <div className="card-actions">
-          <button className="btn btn-sm btn-outline-primary">
-            <i className="fas fa-info-circle"></i>
-            <span> Learn More</span>
-          </button>
-        </div>
       </div>
+      
       
       <div className={`card-glow ${isHovered ? 'active' : ''}`}></div>
     </div>

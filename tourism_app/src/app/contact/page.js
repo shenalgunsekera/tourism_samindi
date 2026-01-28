@@ -59,7 +59,7 @@ export default function Contact() {
                   <div className="contact-card-content">
                     <i className="fas fa-envelope contact-icon"></i>
                     <h3>Email Us</h3>
-                    <p>blissfulLanka@gmail.com</p>
+                    <p>blissfullankatourism@gmail.com</p>
                     <p>We reply within 24 hours</p>
                     <p>Don't hesitate to reach out!</p>
                   </div>

@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.7",
-<<<<<<< HEAD
+
     "firebase": "^12.7.0",
     "next": "15.3.5",
-=======
+
     "next": "^16.1.1",
->>>>>>> a1469731995cccc171194b969aee5f1b11f095d9
+
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

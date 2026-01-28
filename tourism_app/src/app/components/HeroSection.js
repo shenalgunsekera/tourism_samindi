@@ -70,10 +70,7 @@ export default function HeroSection() {
                    <span>Explore Tours</span>
                    <i className="fas fa-arrow-right"></i>
                 </a>
-                <a href="/about" className="btn btn-outline-light btn-lg hero-btn">
-                  <span>Learn More</span>
-                  <i className="fas fa-info-circle"></i>
-                </a>
+                
                 
               </div>
             </div>
